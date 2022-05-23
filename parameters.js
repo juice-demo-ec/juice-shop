@@ -1,1 +1,1 @@
-pwd="kjuehweje123"
+key=ghp_LP9H0Y5UQFzjrTZvUWShYN55DxrhPU0YKDy7
